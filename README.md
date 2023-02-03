@@ -22,3 +22,17 @@ I am working on this project in parallel with studying the Vuejs framework with 
 
 3. **Firebase**,</br>
     It is not a stage but the backend working of this project will be using the Firebase.
+
+
+## What Expected from this project:
+1. Good Working with Vue js and Nuxt JS.
+2. Improve testing skills.
+3. Improve working with apies data as a frontend developer.
+4. improve working with git and good understand for [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,lived%20branches%20and%20larger%20commits)
+
+
+## Useful resources:
+1. [Vue3 course](https://frontendmasters.com/courses/vue-3/).
+2. [Testing](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6pNpU-I4TJ15DrwU-hxNIz)
+3. [SPA without framework](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn)
+
