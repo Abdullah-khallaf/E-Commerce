@@ -1,8 +1,7 @@
 # E-Commerce Website
 
 ## What I am building 
-
-</br>In this Project iam working on my skills as a front-end developer.</br>
+In this project iam working on my skills as a front-end developer.</br>
 Building E-Commerce website is a great way to to do that as i am working on these points:</br>
 
 1. OOP in JS.
@@ -14,4 +13,12 @@ Building E-Commerce website is a great way to to do that as i am working on thes
 ## Things in consideration:
 I am working on this project in parallel with studying the Vuejs framework with Sarah drasner [Vue3 course](https://frontendmasters.com/courses/vue-3/) 
 
-    
+## Project Phases:
+1. **Vue JS**,
+    In this phase i will work on the project using the clientside framework Vue JS.
+
+2. **Nuxt JS**,
+    In this phase i will work on the project using the serverside framework Nuxt Js which is based on VUEjs
+
+3. **Firebase**, 
+    It is not a stage but the backend working of this project will be using the Firebase.
