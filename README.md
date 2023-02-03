@@ -14,11 +14,11 @@ Building E-Commerce website is a great way to to do that as i am working on thes
 I am working on this project in parallel with studying the Vuejs framework with Sarah drasner [Vue3 course](https://frontendmasters.com/courses/vue-3/) 
 
 ## Project Phases:
-1. **Vue JS**,
+1. **Vue JS**,</br>
     In this phase i will work on the project using the clientside framework Vue JS.
 
-2. **Nuxt JS**,
+2. **Nuxt JS**,</br>
     In this phase i will work on the project using the serverside framework Nuxt Js which is based on VUEjs
 
-3. **Firebase**, 
+3. **Firebase**,</br>
     It is not a stage but the backend working of this project will be using the Firebase.
