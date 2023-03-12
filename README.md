@@ -36,3 +36,9 @@ I am working on this project in parallel with studying the Vuejs framework with 
 2. [Testing](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6pNpU-I4TJ15DrwU-hxNIz)
 3. [SPA without framework](https://www.youtube.com/playlist?list=PLtxOBbrOOPH6Os1EJifSE59Bd5WbL15pn)
 
+
+--- --------------------------------
+## Todolist:
+- [ ] Set the environment
+- [ ] Build a shopping cart with JS.
+- [ ] Start with vue js
