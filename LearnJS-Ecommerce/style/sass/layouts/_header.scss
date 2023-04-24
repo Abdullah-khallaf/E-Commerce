@@ -1,0 +1,21 @@
+header{
+   height:50px;
+   background-color: red;
+   font-family: sans-serif;
+   nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width:80%;
+    margin: 0 auto;
+    background-color: grey;
+    height: 100%;
+   }
+   .navigation{
+    list-style: none;
+    li{
+        display: inline-block;
+        background-color: green;
+    }
+   }
+}
